@@ -31,7 +31,8 @@ This project was developed as part of an internship/project task to demonstrate 
 
 ### Home Screen
 
-![Home Screen](screenshots/home-screen.png)
+![Home Screen](Screenshot 2026-06-24 024839.png
+)
 
 ### Generated URL Screen
 
