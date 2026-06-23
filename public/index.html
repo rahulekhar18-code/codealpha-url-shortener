@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>URL Shortener</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="stars"></div>
+
+<div class="container">
+
+    <div class="hero">
+
+        <div class="logo-box">
+            🔗
+        </div>
+
+        <h1>URL Shortener</h1>
+
+    </div>
+
+    <p class="subtitle">
+        Shorten your long URLs and share with ease ✨
+    </p>
+
+    <div class="card">
+
+        <label>
+            🔗 Enter your long URL
+        </label>
+
+        <input
+            type="text"
+            id="urlInput"
+            placeholder="https://github.com/your-repository"
+        >
+
+        <small>
+            Make sure to include https:// or http://
+        </small>
+
+        <button
+            class="main-btn"
+            onclick="shortenUrl()"
+        >
+            🚀 Shorten URL
+        </button>
+
+        <div id="result"></div>
+
+        <div class="features">
+
+            <div class="feature">
+                <h3>⚡ Fast</h3>
+                <p>Instant Results</p>
+            </div>
+
+            <div class="feature">
+                <h3>🛡 Secure</h3>
+                <p>Safe & Reliable</p>
+            </div>
+
+            <div class="feature">
+                <h3>📊 Smart</h3>
+                <p>Track & Manage</p>
+            </div>
+
+        </div>
+
+    </div>
+<div class="stats">
+
+<div>
+<h3>10K+</h3>
+<p>URLs Shortened</p>
+</div>
+
+<div>
+<h3>99.9%</h3>
+<p>Uptime</p>
+</div>
+
+<div>
+<h3>Fast</h3>
+<p>Redirect Speed</p>
+</div>
+
+</div>
+    <p class="footer">
+        Made with ❤️ by Rahul
+    </p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
