@@ -1,3 +1,5 @@
+<img width="1917" height="1132" alt="Screenshot 2026-06-24 024853" src="https://github.com/user-attachments/assets/962050c9-7e9b-43c8-9322-e36fd6d590c7" />
+<img width="1918" height="1148" alt="Screenshot 2026-06-24 024839" src="https://github.com/user-attachments/assets/45b5e1aa-fa79-4158-86eb-bc811fb31378" />
 # 🔗 URL Shortener
 
 A modern and elegant URL Shortener web application built using **Node.js**, **Express.js**, **HTML**, **CSS**, and **JavaScript**. This project allows users to convert long URLs into short and shareable links through a beautiful glassmorphism-inspired user interface.
